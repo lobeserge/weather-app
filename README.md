@@ -1,4 +1,4 @@
-# lyrics
+# Simple-Weather
 
 ## Project setup
 ```
